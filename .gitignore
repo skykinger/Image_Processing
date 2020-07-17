@@ -1,0 +1,9 @@
+#忽略以下檔案類型
+*.exe
+*.pdb
+*.db
+*.mp4
+*.png
+*.bmp
+*.log
+*.obj
